@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/brenoaissa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarafteixeira&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafteixeira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sarafteixeira&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafteixeira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##
