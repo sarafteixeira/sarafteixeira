@@ -1,6 +1,5 @@
 ### Olá, bem-vindos ao meu github 💜
 
-- 🔭 Estudante de Análise e desenvolvimento de sistemas
 - 🎓 Estudante de Análise e desenvolvimento de sistemas
 - ⚡ Em busca de conhecimento
 - ♨️ QA na F1rst Digital Services 
